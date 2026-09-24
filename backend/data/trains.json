@@ -1,0 +1,2586 @@
+[
+    {
+        "number": "17281",
+        "name": "GNT NS EXP"
+    },
+    {
+        "number": "17282",
+        "name": "NS GNT EXP"
+    },
+    {
+        "number": "22631",
+        "name": "ANUVRAT SF EXP"
+    },
+    {
+        "number": "12836",
+        "name": "SMVB HATIA EXP"
+    },
+    {
+        "number": "12837",
+        "name": "HWH PURI SF EXP"
+    },
+    {
+        "number": "06148",
+        "name": "BNC KTYM SPL"
+    },
+    {
+        "number": "12834",
+        "name": "HWH ADI SUF EXP"
+    },
+    {
+        "number": "12835",
+        "name": "HTE SMVB EXP"
+    },
+    {
+        "number": "06147",
+        "name": "KTYM BNC SPECIAL"
+    },
+    {
+        "number": "12839",
+        "name": "CHENNAI MAIL"
+    },
+    {
+        "number": "17291",
+        "name": "NS TNM WEEKLY EX"
+    },
+    {
+        "number": "06138",
+        "name": "VLNK MS SPECIAL"
+    },
+    {
+        "number": "06135",
+        "name": "TBM TSI SF SPL"
+    },
+    {
+        "number": "08312",
+        "name": "ED SBP SPECIAL"
+    },
+    {
+        "number": "06137",
+        "name": "TVCN UDN SPL"
+    },
+    {
+        "number": "06136",
+        "name": "SCT TBM SF SPL"
+    },
+    {
+        "number": "08313",
+        "name": "RATH YATRA SPL"
+    },
+    {
+        "number": "08311",
+        "name": "ERODE SUMMER SPL"
+    },
+    {
+        "number": "12849",
+        "name": "BSP PUNE SF EXP"
+    },
+    {
+        "number": "12840",
+        "name": "MAS HWH SF MAIL"
+    },
+    {
+        "number": "12843",
+        "name": "PURI ADI S F"
+    },
+    {
+        "number": "12841",
+        "name": "COROMANDAL EXP"
+    },
+    {
+        "number": "12842",
+        "name": "COROMANDEL EXP"
+    },
+    {
+        "number": "22613",
+        "name": "RMM AYC SF EXP"
+    },
+    {
+        "number": "22614",
+        "name": "AYC RMM EXPRESS"
+    },
+    {
+        "number": "15084",
+        "name": "FBD CPR EXPRESS"
+    },
+    {
+        "number": "17262",
+        "name": "TPTY GNT EXP"
+    },
+    {
+        "number": "18110",
+        "name": "NITR TATA EXP"
+    },
+    {
+        "number": "15089",
+        "name": "GODA GTNR EXP"
+    },
+    {
+        "number": "22619",
+        "name": "BSP TEN SF EXP"
+    },
+    {
+        "number": "18111",
+        "name": "TATA YPR EXP"
+    },
+    {
+        "number": "18117",
+        "name": "RAJYARANI EXP"
+    },
+    {
+        "number": "18119",
+        "name": "TATA JYG EXPRESS"
+    },
+    {
+        "number": "09611",
+        "name": "AII YNRK SPL"
+    },
+    {
+        "number": "19411",
+        "name": "GNC DLPC EXP"
+    },
+    {
+        "number": "06117",
+        "name": "MAS QLN SPECIAL"
+    },
+    {
+        "number": "06116",
+        "name": "TVCN MS SPECIAL"
+    },
+    {
+        "number": "06118",
+        "name": "QLN MAS SPECIAL"
+    },
+    {
+        "number": "06113",
+        "name": "MAS QLN SPECIAL"
+    },
+    {
+        "number": "06112",
+        "name": "QLN MAS SPL"
+    },
+    {
+        "number": "06115",
+        "name": "MS TVCN SPECIAL"
+    },
+    {
+        "number": "06114",
+        "name": "QLN MAS SPECIAL"
+    },
+    {
+        "number": "06111",
+        "name": "MAS QLN SF SPL"
+    },
+    {
+        "number": "11108",
+        "name": "BUNDELKHAND EXP"
+    },
+    {
+        "number": "11107",
+        "name": "BUNDELKHAND EXP"
+    },
+    {
+        "number": "11109",
+        "name": "LJN INTERCITY"
+    },
+    {
+        "number": "11100",
+        "name": "MADGAON LTT EXP"
+    },
+    {
+        "number": "14611",
+        "name": "GCT SVDK EXP"
+    },
+    {
+        "number": "11110",
+        "name": "JHS INTERCITY"
+    },
+    {
+        "number": "12411",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "04811",
+        "name": "BME HW SPL"
+    },
+    {
+        "number": "15911",
+        "name": "TSK NHLN EXP"
+    },
+    {
+        "number": "19011",
+        "name": "BL DHD EXPRESS"
+    },
+    {
+        "number": "11060",
+        "name": "CPR LTT EXPRESS"
+    },
+    {
+        "number": "11062",
+        "name": "JYG LTT EXP"
+    },
+    {
+        "number": "11072",
+        "name": "KAMAYANI EXP"
+    },
+    {
+        "number": "11078",
+        "name": "JHELUM EXPRESS"
+    },
+    {
+        "number": "11040",
+        "name": "MAHARASHTRA EXP"
+    },
+    {
+        "number": "11044",
+        "name": "BUI DR SPL"
+    },
+    {
+        "number": "22620",
+        "name": "TEN BSP SF EXP"
+    },
+    {
+        "number": "22623",
+        "name": "MS MDU SF EXP"
+    },
+    {
+        "number": "19422",
+        "name": "PNBE ADI EXP"
+    },
+    {
+        "number": "22602",
+        "name": "SNSI MAS SF EXP"
+    },
+    {
+        "number": "22604",
+        "name": "VM KGP SF EXP"
+    },
+    {
+        "number": "22606",
+        "name": "TEN PRR SF EXP"
+    },
+    {
+        "number": "22601",
+        "name": "MAS SNSI SF EXP"
+    },
+    {
+        "number": "17221",
+        "name": "COA LTT EXPRESS"
+    },
+    {
+        "number": "17226",
+        "name": "AMARAVATHI EXP"
+    },
+    {
+        "number": "22231",
+        "name": "SMVB VANDEBHARAT"
+    },
+    {
+        "number": "22233",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "22230",
+        "name": "CSMT VANDEBHARAT"
+    },
+    {
+        "number": "14622",
+        "name": "FZR NED EXP"
+    },
+    {
+        "number": "22210",
+        "name": "MMCT DURONTO"
+    },
+    {
+        "number": "12823",
+        "name": "CG SMPRK KRANTI"
+    },
+    {
+        "number": "20423",
+        "name": "PATALKOT SF EXP"
+    },
+    {
+        "number": "17236",
+        "name": "NCJ SMVB EXP"
+    },
+    {
+        "number": "17231",
+        "name": "NS NSL EXP"
+    },
+    {
+        "number": "09623",
+        "name": "UDZ ASN SPL"
+    },
+    {
+        "number": "17239",
+        "name": "SIMHADRI EXP"
+    },
+    {
+        "number": "22223",
+        "name": "SNSI VANDEBHARAT"
+    },
+    {
+        "number": "12423",
+        "name": "RAJDHANI EXP"
+    },
+    {
+        "number": "09232",
+        "name": "MMCT DURONTO SPL"
+    },
+    {
+        "number": "12391",
+        "name": "SHRAMJEEVI EXP"
+    },
+    {
+        "number": "12392",
+        "name": "SHRAMJIVI EXP"
+    },
+    {
+        "number": "12390",
+        "name": "MAS GAYA SF EXP"
+    },
+    {
+        "number": "12395",
+        "name": "ZIYARAT EXPRESS"
+    },
+    {
+        "number": "12393",
+        "name": "S KRANTI SUP EX"
+    },
+    {
+        "number": "12397",
+        "name": "MAHABODHI EXP"
+    },
+    {
+        "number": "12370",
+        "name": "KUMBHA EXPRESS"
+    },
+    {
+        "number": "12371",
+        "name": "HWH BKN SF EXP"
+    },
+    {
+        "number": "12372",
+        "name": "BKN HWH SF EXP"
+    },
+    {
+        "number": "12378",
+        "name": "PADATIK EXPRESS"
+    },
+    {
+        "number": "12375",
+        "name": "TBM JSME SF EXP"
+    },
+    {
+        "number": "12376",
+        "name": "JSME TBM EXP"
+    },
+    {
+        "number": "12379",
+        "name": "JALIANWALA B EX"
+    },
+    {
+        "number": "12380",
+        "name": "JALIANWALA B EX"
+    },
+    {
+        "number": "12381",
+        "name": "POORVA EXPRESS"
+    },
+    {
+        "number": "13230",
+        "name": "RJPB GODA EXP"
+    },
+    {
+        "number": "13236",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "12389",
+        "name": "GAYA MAS EXPRES"
+    },
+    {
+        "number": "12824",
+        "name": "CG S KRANTI"
+    },
+    {
+        "number": "17240",
+        "name": "SIMHADRI EXP"
+    },
+    {
+        "number": "17248",
+        "name": "DMM NS EXP"
+    },
+    {
+        "number": "20424",
+        "name": "PATALKOT EXP"
+    },
+    {
+        "number": "09624",
+        "name": "ASN UDZ SPECIAL"
+    },
+    {
+        "number": "52451",
+        "name": "SHIVALK DLX EXP"
+    },
+    {
+        "number": "12438",
+        "name": "SC RAJDHANI"
+    },
+    {
+        "number": "12439",
+        "name": "NED SGNR SF EXP"
+    },
+    {
+        "number": "52454",
+        "name": "SML KLK EXP"
+    },
+    {
+        "number": "52453",
+        "name": "KLK SML EXP"
+    },
+    {
+        "number": "52458",
+        "name": "SML KLK EXP"
+    },
+    {
+        "number": "12432",
+        "name": "TVC RAJDHANI"
+    },
+    {
+        "number": "12433",
+        "name": "MAS NZM RAJDHANI"
+    },
+    {
+        "number": "52459",
+        "name": "KLK SML EXPRESS"
+    },
+    {
+        "number": "12430",
+        "name": "NDLS LKO AC EXP"
+    },
+    {
+        "number": "52456",
+        "name": "HIMALYAN QUEEN"
+    },
+    {
+        "number": "12436",
+        "name": "JYG GARIB RATH"
+    },
+    {
+        "number": "12434",
+        "name": "NZM MAS RAJDHANI"
+    },
+    {
+        "number": "12440",
+        "name": "SGNR NED EXP"
+    },
+    {
+        "number": "12449",
+        "name": "GOA SMPRK K"
+    },
+    {
+        "number": "12444",
+        "name": "HALDIYA EXPRESS"
+    },
+    {
+        "number": "12441",
+        "name": "BSP NDLS RAJ EX"
+    },
+    {
+        "number": "12442",
+        "name": "BSP RAJDHNI EXP"
+    },
+    {
+        "number": "12447",
+        "name": "UP SMPRK KRANTI"
+    },
+    {
+        "number": "12448",
+        "name": "UP SAMPRK KRANTI"
+    },
+    {
+        "number": "12445",
+        "name": "UTTAR S KRANTI"
+    },
+    {
+        "number": "14624",
+        "name": "PATALKOT EXP"
+    },
+    {
+        "number": "12446",
+        "name": "UTTAR S KRANTI"
+    },
+    {
+        "number": "04824",
+        "name": "MAU JU SPL"
+    },
+    {
+        "number": "12418",
+        "name": "PRAYAGRAJ EXP"
+    },
+    {
+        "number": "12419",
+        "name": "GOMTI EXPRESS"
+    },
+    {
+        "number": "12809",
+        "name": "HOWRAH MAIL"
+    },
+    {
+        "number": "22612",
+        "name": "NJP MAS EXPRESS"
+    },
+    {
+        "number": "12814",
+        "name": "STEEL EXP"
+    },
+    {
+        "number": "12815",
+        "name": "NANDANKANAN SF\t•\t22637 - WEST COAST SFEXP"
+    },
+    {
+        "number": "12812",
+        "name": "HTE LTT EXP"
+    },
+    {
+        "number": "12813",
+        "name": "STEEL EXP"
+    },
+    {
+        "number": "07012",
+        "name": "TPTY PVR SPL"
+    },
+    {
+        "number": "12818",
+        "name": "JHARKHAND EXP"
+    },
+    {
+        "number": "12819",
+        "name": "SAMPARK KR SF"
+    },
+    {
+        "number": "12817",
+        "name": "SWARNJAYANTI EX"
+    },
+    {
+        "number": "12810",
+        "name": "HWH CSMT MAIL"
+    },
+    {
+        "number": "18120",
+        "name": "JYG TATA EXP"
+    },
+    {
+        "number": "12825",
+        "name": "RNC ANVT SF EXP"
+    },
+    {
+        "number": "12826",
+        "name": "ANVT RNC SF EXP"
+    },
+    {
+        "number": "12827",
+        "name": "HWH PRR SUF EXP"
+    },
+    {
+        "number": "12828",
+        "name": "PRR HWH SUF EXP"
+    },
+    {
+        "number": "09612",
+        "name": "YNRK AII SPL"
+    },
+    {
+        "number": "12803",
+        "name": "SWARNA JAYANTHI"
+    },
+    {
+        "number": "20413",
+        "name": "MAHAKAL EXPRESS"
+    },
+    {
+        "number": "22213",
+        "name": "PNBE DURONTO EX"
+    },
+    {
+        "number": "12413",
+        "name": "GALTADHAM POOJA"
+    },
+    {
+        "number": "19013",
+        "name": "BSL KATNI EXP"
+    },
+    {
+        "number": "13242",
+        "name": "RJPB BANKA EXP"
+    },
+    {
+        "number": "13246",
+        "name": "CAPITAL EXP"
+    },
+    {
+        "number": "13247",
+        "name": "CAPITAL EXPRESS"
+    },
+    {
+        "number": "13245",
+        "name": "CAPITAL EXPRESS"
+    },
+    {
+        "number": "13248",
+        "name": "KYQ CAPITAL EXP"
+    },
+    {
+        "number": "13251",
+        "name": "PNBE ANVT EXP"
+    },
+    {
+        "number": "17613",
+        "name": "PNVL NED EXPRESS"
+    },
+    {
+        "number": "07813",
+        "name": "LTT NED SPL"
+    },
+    {
+        "number": "13225",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "13228",
+        "name": "RJPB INTERCITY"
+    },
+    {
+        "number": "13226",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "13227",
+        "name": "SHC INTERCITY"
+    },
+    {
+        "number": "13233",
+        "name": "RAJGRIHA EXP"
+    },
+    {
+        "number": "13234",
+        "name": "RAJGRIHA EXP"
+    },
+    {
+        "number": "13239",
+        "name": "PNBE KOTA EXP"
+    },
+    {
+        "number": "13237",
+        "name": "PNBE KOTA EXP"
+    },
+    {
+        "number": "01213",
+        "name": "MRJ NGP SPL"
+    },
+    {
+        "number": "20433",
+        "name": "JAMMU MAIL"
+    },
+    {
+        "number": "19033",
+        "name": "GUJARAT QUEEN"
+    },
+    {
+        "number": "16733",
+        "name": "RMM OKHA EXP"
+    },
+    {
+        "number": "12330",
+        "name": "SAMPARK K EXP"
+    },
+    {
+        "number": "12339",
+        "name": "COALFIELD EXP"
+    },
+    {
+        "number": "12333",
+        "name": "VIBHUTI EXPRESS"
+    },
+    {
+        "number": "12334",
+        "name": "VIBHUTI EXPRESS"
+    },
+    {
+        "number": "12332",
+        "name": "HIMGIRI EXPRESS"
+    },
+    {
+        "number": "12337",
+        "name": "SANTINIKETN EXP"
+    },
+    {
+        "number": "12338",
+        "name": "SANTINIKETN EXP"
+    },
+    {
+        "number": "12335",
+        "name": "BGP LTT EXPRESS"
+    },
+    {
+        "number": "15033",
+        "name": "PPTA LJN EXP"
+    },
+    {
+        "number": "06533",
+        "name": "MYS BGKT SPL"
+    },
+    {
+        "number": "16330",
+        "name": "NCJ AMRIT BHARAT"
+    },
+    {
+        "number": "16331",
+        "name": "TRIVANDRAM EXP"
+    },
+    {
+        "number": "20833",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "17633",
+        "name": "NED TCNR EXP"
+    },
+    {
+        "number": "18233",
+        "name": "INDB BSP EXP"
+    },
+    {
+        "number": "14733",
+        "name": "BTI JP EXP"
+    },
+    {
+        "number": "01433",
+        "name": "PUNE SNGN SF SPL"
+    },
+    {
+        "number": "22330",
+        "name": "ASN HLZ SF EXP"
+    },
+    {
+        "number": "12533",
+        "name": "PUSHPAK EXPRESS"
+    },
+    {
+        "number": "12033",
+        "name": "SHATABDI EXP"
+    },
+    {
+        "number": "05733",
+        "name": "KIR HOLI SPL"
+    },
+    {
+        "number": "13349",
+        "name": "SGRL PNBE EXP"
+    },
+    {
+        "number": "13347",
+        "name": "PALAMOU EXPRESS"
+    },
+    {
+        "number": "13348",
+        "name": "PALAMOU EXP"
+    },
+    {
+        "number": "13352",
+        "name": "ALLP DHN EXPRESS"
+    },
+    {
+        "number": "22634",
+        "name": "NZM TVC EXPRESS"
+    },
+    {
+        "number": "20434",
+        "name": "JAMMU MAIL"
+    },
+    {
+        "number": "15934",
+        "name": "ASR NTSK EXP"
+    },
+    {
+        "number": "03436",
+        "name": "MLDT HOLI SPL"
+    },
+    {
+        "number": "03435",
+        "name": "MLDT ANVT SPL"
+    },
+    {
+        "number": "16734",
+        "name": "OKHA RMM EXP"
+    },
+    {
+        "number": "11034",
+        "name": "DBG PUNE EXP"
+    },
+    {
+        "number": "03418",
+        "name": "UDN MLDT SPL"
+    },
+    {
+        "number": "03417",
+        "name": "MLDT UDN SPL"
+    },
+    {
+        "number": "12340",
+        "name": "COALFIELD EXP"
+    },
+    {
+        "number": "12341",
+        "name": "AGNIVEENA EXP"
+    },
+    {
+        "number": "12344",
+        "name": "DARJEELING MAIL"
+    },
+    {
+        "number": "12345",
+        "name": "SARAIGHAT EXP"
+    },
+    {
+        "number": "12342",
+        "name": "AGNIVEENA EXP"
+    },
+    {
+        "number": "12343",
+        "name": "DARJEELING MAIL"
+    },
+    {
+        "number": "12348",
+        "name": "RPH HWH EXPRESS"
+    },
+    {
+        "number": "12349",
+        "name": "GODA NDLS HMSFR"
+    },
+    {
+        "number": "12346",
+        "name": "SARAIGHAT EXP"
+    },
+    {
+        "number": "12347",
+        "name": "HWH RPH EXPRESS"
+    },
+    {
+        "number": "15034",
+        "name": "LJN PPTA EXP"
+    },
+    {
+        "number": "16348",
+        "name": "TRIVANDRUM EXP"
+    },
+    {
+        "number": "03465",
+        "name": "MLDT DGHA SPL"
+    },
+    {
+        "number": "03466",
+        "name": "DGHA MLDT SPL"
+    },
+    {
+        "number": "17634",
+        "name": "TCNR NED EXP"
+    },
+    {
+        "number": "11634",
+        "name": "CPU BPL EXP"
+    },
+    {
+        "number": "18234",
+        "name": "NARMADA EXPRESS"
+    },
+    {
+        "number": "13404",
+        "name": "VANANCHAL EXP"
+    },
+    {
+        "number": "18573",
+        "name": "VSKP BGKT EXP"
+    },
+    {
+        "number": "18574",
+        "name": "BGKT VSKP EXP"
+    },
+    {
+        "number": "18102",
+        "name": "JAT TATA EXPRESS"
+    },
+    {
+        "number": "18103",
+        "name": "JALIANWALABAG EX"
+    },
+    {
+        "number": "18105",
+        "name": "ROU JYG EXP"
+    },
+    {
+        "number": "18101",
+        "name": "TATA JAT EXP"
+    },
+    {
+        "number": "18106",
+        "name": "JYG ROU EXP"
+    },
+    {
+        "number": "18107",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "18109",
+        "name": "TATA NITR EXP"
+    },
+    {
+        "number": "18567",
+        "name": "VSKP QLN EXP"
+    },
+    {
+        "number": "18190",
+        "name": "ERS TATA EXP"
+    },
+    {
+        "number": "06186",
+        "name": "UAM ONR SPECIAL"
+    },
+    {
+        "number": "06185",
+        "name": "ONR UAM SPECIAL"
+    },
+    {
+        "number": "06182",
+        "name": "JP CBE SPECIAL"
+    },
+    {
+        "number": "06181",
+        "name": "CBE JP SPECIAL"
+    },
+    {
+        "number": "06183",
+        "name": "ERS BJU SPECIAL"
+    },
+    {
+        "number": "06180",
+        "name": "UAM ONR SPECIAL"
+    },
+    {
+        "number": "18186",
+        "name": "GODDA TATA EXP"
+    },
+    {
+        "number": "18189",
+        "name": "TATA ERS EXP"
+    },
+    {
+        "number": "18182",
+        "name": "THE TATA EXP"
+    },
+    {
+        "number": "18183",
+        "name": "TATA BXR EXP"
+    },
+    {
+        "number": "18184",
+        "name": "BXR TATA EXP"
+    },
+    {
+        "number": "18181",
+        "name": "TATA THE EXP"
+    },
+    {
+        "number": "22644",
+        "name": "PNBE ERS EXP"
+    },
+    {
+        "number": "15044",
+        "name": "KGM LJN EXPRESS"
+    },
+    {
+        "number": "06544",
+        "name": "BKN YPR SPL"
+    },
+    {
+        "number": "08744",
+        "name": "HW DURG SPECIAL"
+    },
+    {
+        "number": "20844",
+        "name": "BGKT BSP SF EXP"
+    },
+    {
+        "number": "03044",
+        "name": "SMI HWH SPL"
+    },
+    {
+        "number": "08445",
+        "name": "CTC BNC SPL"
+    },
+    {
+        "number": "08441",
+        "name": "RATH YATRA SPL"
+    },
+    {
+        "number": "12944",
+        "name": "CNB BL EXPRESS"
+    },
+    {
+        "number": "09344",
+        "name": "PNBE DADN SPL"
+    },
+    {
+        "number": "04416",
+        "name": "SBIB HOLI SPL"
+    },
+    {
+        "number": "05344",
+        "name": "LKU BL SPL"
+    },
+    {
+        "number": "04494",
+        "name": "PNBE KUMBH SPL"
+    },
+    {
+        "number": "04451",
+        "name": "NZM BEAS SPL"
+    },
+    {
+        "number": "04452",
+        "name": "BEAS NZM SPL"
+    },
+    {
+        "number": "22844",
+        "name": "BXR BSP SF EXP"
+    },
+    {
+        "number": "20644",
+        "name": "MAS VANDEBHARAT"
+    },
+    {
+        "number": "22443",
+        "name": "CNB BDTS EXP"
+    },
+    {
+        "number": "22444",
+        "name": "BDTS KANPUR SUP"
+    },
+    {
+        "number": "22445",
+        "name": "CNB ASR SUP"
+    },
+    {
+        "number": "20452",
+        "name": "NDLS SGAC SF EX"
+    },
+    {
+        "number": "07470",
+        "name": "SKZR HYB SPL"
+    },
+    {
+        "number": "22646",
+        "name": "AHILYANAGARI EXP"
+    },
+    {
+        "number": "22647",
+        "name": "KRBA TVCN SF EXP"
+    },
+    {
+        "number": "22648",
+        "name": "TVCN KRBA SF EXP"
+    },
+    {
+        "number": "22649",
+        "name": "YERCAUD SF EXP"
+    },
+    {
+        "number": "22642",
+        "name": "SHM TVC SUF EXP"
+    },
+    {
+        "number": "15094",
+        "name": "TPU AH EXP"
+    },
+    {
+        "number": "06154",
+        "name": "MAQ MS SPECIAL"
+    },
+    {
+        "number": "15064",
+        "name": "CDG RMR EXPRESS"
+    },
+    {
+        "number": "20894",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "20410",
+        "name": "BTI DEC SF EXP"
+    },
+    {
+        "number": "19421",
+        "name": "ADI PNBE EXP"
+    },
+    {
+        "number": "01710",
+        "name": "JBP R EXP SPL"
+    },
+    {
+        "number": "06106",
+        "name": "RMM VM SF SPL"
+    },
+    {
+        "number": "06105",
+        "name": "VM RMM SF SPL"
+    },
+    {
+        "number": "06108",
+        "name": "TVCN MS SPL"
+    },
+    {
+        "number": "06107",
+        "name": "MS TVCN SPL"
+    },
+    {
+        "number": "19410",
+        "name": "GKP ADI EXP"
+    },
+    {
+        "number": "14610",
+        "name": "HEMKUNT EXPRESS"
+    },
+    {
+        "number": "12410",
+        "name": "GONDWANA EXP"
+    },
+    {
+        "number": "10215",
+        "name": "MADGAON ERS EXP"
+    },
+    {
+        "number": "15910",
+        "name": "AVADH ASSAM EXP"
+    },
+    {
+        "number": "20995",
+        "name": "AII BDTS SF SPL"
+    },
+    {
+        "number": "20994",
+        "name": "UDZ JP SF SPL"
+    },
+    {
+        "number": "20993",
+        "name": "JP UDZ SF SPL"
+    },
+    {
+        "number": "14111",
+        "name": "MFP PRYJ EXP"
+    },
+    {
+        "number": "11124",
+        "name": "BJU GWL MAIL"
+    },
+    {
+        "number": "11123",
+        "name": "GWL BJU EXPRESS"
+    },
+    {
+        "number": "11126",
+        "name": "GWL RTM EXPRESS"
+    },
+    {
+        "number": "11125",
+        "name": "RTM GWALIOR EXP"
+    },
+    {
+        "number": "04111",
+        "name": "PRYJ GG SPL"
+    },
+    {
+        "number": "22111",
+        "name": "AYC AMRIT BHARAT"
+    },
+    {
+        "number": "09111",
+        "name": "BRC GKP SPL"
+    },
+    {
+        "number": "01119",
+        "name": "NAVI PVR SPL"
+    },
+    {
+        "number": "01112",
+        "name": "SWV LTT SPECIAL"
+    },
+    {
+        "number": "11102",
+        "name": "GWL PUNE EXP"
+    },
+    {
+        "number": "11103",
+        "name": "JHS BDTS EXP"
+    },
+    {
+        "number": "11106",
+        "name": "PRATHAM S SNGRM"
+    },
+    {
+        "number": "11105",
+        "name": "PRATHAM S S EXP"
+    },
+    {
+        "number": "11118",
+        "name": "PCOI ET EXPRESS"
+    },
+    {
+        "number": "11111",
+        "name": "GD SUSHASAN EXP"
+    },
+    {
+        "number": "11112",
+        "name": "GWL SUSHASAN EXP"
+    },
+    {
+        "number": "11117",
+        "name": "ET PCOI EXP"
+    },
+    {
+        "number": "02111",
+        "name": "LTT SUR SF SPL"
+    },
+    {
+        "number": "07111",
+        "name": "NED QLN SPL"
+    },
+    {
+        "number": "20111",
+        "name": "KONKAN KANYA EXP"
+    },
+    {
+        "number": "11140",
+        "name": "HPT CSMT EXP"
+    },
+    {
+        "number": "11128",
+        "name": "KTE BSL EXP"
+    },
+    {
+        "number": "11127",
+        "name": "BSL KTE EXP"
+    },
+    {
+        "number": "20992",
+        "name": "DD AJMER SF EXP"
+    },
+    {
+        "number": "20991",
+        "name": "AII DD SF SPL"
+    },
+    {
+        "number": "20990",
+        "name": "CDG UDZ SF EXP"
+    },
+    {
+        "number": "20996",
+        "name": "BDTS AII SF"
+    },
+    {
+        "number": "01099",
+        "name": "CSMT JP SF SPL"
+    },
+    {
+        "number": "90999",
+        "name": "CDG MDU SF EXP"
+    },
+    {
+        "number": "06099",
+        "name": "RMM BNRS KTSSPL"
+    },
+    {
+        "number": "09099",
+        "name": "MMCT ADI SF SPL"
+    },
+    {
+        "number": "09992",
+        "name": "KOP PUNE EXPRESS"
+    },
+    {
+        "number": "09991",
+        "name": "PUNE KOP EXPRESS"
+    },
+    {
+        "number": "90994",
+        "name": "UDZ JP SF EXP"
+    },
+    {
+        "number": "09619",
+        "name": "AII RNC SPL"
+    },
+    {
+        "number": "19403",
+        "name": "SULTANPUR EXP"
+    },
+    {
+        "number": "19402",
+        "name": "LKO ADI EXPRESS"
+    },
+    {
+        "number": "19412",
+        "name": "DLPC GNC EXP"
+    },
+    {
+        "number": "19414",
+        "name": "KOAA ADI EXP"
+    },
+    {
+        "number": "19416",
+        "name": "SVDK SBIB EXP"
+    },
+    {
+        "number": "14619",
+        "name": "TRIPURA SUNDARI"
+    },
+    {
+        "number": "19045",
+        "name": "TAPTI GANGA EXP"
+    },
+    {
+        "number": "19046",
+        "name": "TAPTI GANGA EXP"
+    },
+    {
+        "number": "19052",
+        "name": "BL SHRAMIK EXP"
+    },
+    {
+        "number": "19051",
+        "name": "MFP SHRAMIK EXP"
+    },
+    {
+        "number": "19053",
+        "name": "ST MFP EXP"
+    },
+    {
+        "number": "19027",
+        "name": "JAT VIVEK EXP"
+    },
+    {
+        "number": "19022",
+        "name": "AMRIT BHARAT EXP"
+    },
+    {
+        "number": "19036",
+        "name": "BRC INTERCITY"
+    },
+    {
+        "number": "19035",
+        "name": "ADI INTERCITY"
+    },
+    {
+        "number": "19032",
+        "name": "YOGA EXPRESS"
+    },
+    {
+        "number": "19031",
+        "name": "YOGA EXPRESS"
+    },
+    {
+        "number": "19005",
+        "name": "SURAT BSL EXP"
+    },
+    {
+        "number": "19004",
+        "name": "KHANDESH EXP"
+    },
+    {
+        "number": "19007",
+        "name": "SURAT BSL EXP"
+    },
+    {
+        "number": "06588",
+        "name": "TLGP YPR SPL"
+    },
+    {
+        "number": "20889",
+        "name": "TPTY HUMSAFR EX"
+    },
+    {
+        "number": "20888",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "20887",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "07088",
+        "name": "NGP NED SPECIAL"
+    },
+    {
+        "number": "22688",
+        "name": "BSB MYS EXPRESS"
+    },
+    {
+        "number": "12889",
+        "name": "TATA SMVB SF EX"
+    },
+    {
+        "number": "12883",
+        "name": "RUPASHI BANGLA"
+    },
+    {
+        "number": "12884",
+        "name": "RUPASHI BANGLA"
+    },
+    {
+        "number": "12881",
+        "name": "PURI GARIB RATH"
+    },
+    {
+        "number": "12882",
+        "name": "GARIB RATH"
+    },
+    {
+        "number": "20488",
+        "name": "MALANI EXPRESS"
+    },
+    {
+        "number": "13288",
+        "name": "SOUTH BIHAR EXP"
+    },
+    {
+        "number": "11088",
+        "name": "PUNE VRL EXP"
+    },
+    {
+        "number": "16788",
+        "name": "NAVYUG EXPRESS"
+    },
+    {
+        "number": "04088",
+        "name": "PNBE HOLI SPL"
+    },
+    {
+        "number": "03188",
+        "name": "MBI KOAA SPL"
+    },
+    {
+        "number": "08872",
+        "name": "SHM NITR SPL"
+    },
+    {
+        "number": "08898",
+        "name": "PNBE G SPL"
+    },
+    {
+        "number": "08895",
+        "name": "NITR MDP TOD SPL"
+    },
+    {
+        "number": "08896",
+        "name": "MDP NITR SPL"
+    },
+    {
+        "number": "12988",
+        "name": "AII SDAH SF EXP"
+    },
+    {
+        "number": "12488",
+        "name": "SEEMANCHAL EXP"
+    },
+    {
+        "number": "08866",
+        "name": "SHM NITR SPL"
+    },
+    {
+        "number": "08864",
+        "name": "CPR G HOLI SPL"
+    },
+    {
+        "number": "08865",
+        "name": "G CPR HOLI SPL"
+    },
+    {
+        "number": "08862",
+        "name": "PNBE G HOLI SPL"
+    },
+    {
+        "number": "08802",
+        "name": "RATH YATRA SPL"
+    },
+    {
+        "number": "08801",
+        "name": "G PURI TOD SPL"
+    },
+    {
+        "number": "12088",
+        "name": "GHY NHLN VISTAD"
+    },
+    {
+        "number": "08812",
+        "name": "GONDIA SPL"
+    },
+    {
+        "number": "05299",
+        "name": "MFP TPJ SPL"
+    },
+    {
+        "number": "22199",
+        "name": "SUSHASAN EXP"
+    },
+    {
+        "number": "02199",
+        "name": "VGLJ BDTS SF SPL"
+    },
+    {
+        "number": "11099",
+        "name": "LTT MADGAON EXP"
+    },
+    {
+        "number": "12990",
+        "name": "AII DDR EXPRESS"
+    },
+    {
+        "number": "12991",
+        "name": "UDZ JP EXP"
+    },
+    {
+        "number": "12992",
+        "name": "JP UDZ EXP"
+    },
+    {
+        "number": "12997",
+        "name": "BARMER HUMSAFAR"
+    },
+    {
+        "number": "12996",
+        "name": "AII BDTS SF EXP"
+    },
+    {
+        "number": "01499",
+        "name": "PUNE DNR SPL"
+    },
+    {
+        "number": "03299",
+        "name": "DNR SUR SPL"
+    },
+    {
+        "number": "22998",
+        "name": "SGNR JLWC EXP"
+    },
+    {
+        "number": "22991",
+        "name": "BL BGKT SUP"
+    },
+    {
+        "number": "22992",
+        "name": "JU BL EXP"
+    },
+    {
+        "number": "22995",
+        "name": "MANDORE EXPRESS"
+    },
+    {
+        "number": "06199",
+        "name": "ONR UAM SPECIAL"
+    },
+    {
+        "number": "05699",
+        "name": "GHY DLI SPL"
+    },
+    {
+        "number": "52599",
+        "name": "DIESEL JOYRIDE"
+    },
+    {
+        "number": "12993",
+        "name": "GIMB PURI SF EX"
+    },
+    {
+        "number": "12994",
+        "name": "PURI GIMB SF"
+    },
+    {
+        "number": "12998",
+        "name": "BME BDTS"
+    },
+    {
+        "number": "12995",
+        "name": "BDTS AII SF EXP"
+    },
+    {
+        "number": "07699",
+        "name": "CHZ SRC SPL"
+    },
+    {
+        "number": "15077",
+        "name": "KYQ GTNR EXPRESS"
+    },
+    {
+        "number": "06577",
+        "name": "YPR BJP SPL"
+    },
+    {
+        "number": "12877",
+        "name": "NDLS GARIB RATH"
+    },
+    {
+        "number": "06177",
+        "name": "ONR UAM SPECIAL"
+    },
+    {
+        "number": "22177",
+        "name": "MAHANAGARI EXP"
+    },
+    {
+        "number": "16779",
+        "name": "TPTY RMM EXP"
+    },
+    {
+        "number": "06277",
+        "name": "YPR BJP SPL"
+    },
+    {
+        "number": "20177",
+        "name": "ASV AGC SF EXP"
+    },
+    {
+        "number": "20977",
+        "name": "CDG VANDEBHARAT"
+    },
+    {
+        "number": "04177",
+        "name": "SFG BL SMR SPL"
+    },
+    {
+        "number": "22477",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "12677",
+        "name": "ERNAKULAM EXP"
+    },
+    {
+        "number": "02877",
+        "name": "RNC ANVT SPL"
+    },
+    {
+        "number": "12577",
+        "name": "BAGMATI EXP"
+    },
+    {
+        "number": "12177",
+        "name": "CHAMBAL EXPRESS"
+    },
+    {
+        "number": "22977",
+        "name": "JP JU EXP"
+    },
+    {
+        "number": "12772",
+        "name": "R SC SF EXPRESS"
+    },
+    {
+        "number": "12778",
+        "name": "TVCN UBL SF EXP"
+    },
+    {
+        "number": "15777",
+        "name": "NJP APDJ TOURIST"
+    },
+    {
+        "number": "15778",
+        "name": "APDJ NJP TOURIST"
+    },
+    {
+        "number": "01177",
+        "name": "PNVL SWV SPL"
+    },
+    {
+        "number": "07704",
+        "name": "LPI CCT SPECIAL"
+    },
+    {
+        "number": "07477",
+        "name": "CHZ AKP SPL"
+    },
+    {
+        "number": "16377",
+        "name": "ERNAKULAM EXP"
+    },
+    {
+        "number": "08772",
+        "name": "LKU DURG TOD SPL"
+    },
+    {
+        "number": "22677",
+        "name": "YPR TVCN AC EXP"
+    },
+    {
+        "number": "11077",
+        "name": "JHELUM EXPRESS"
+    },
+    {
+        "number": "12377",
+        "name": "PADATIK EXPRESS"
+    },
+    {
+        "number": "09177",
+        "name": "UDN JYG SPL"
+    },
+    {
+        "number": "02177",
+        "name": "RKMP REWA SF SPL"
+    },
+    {
+        "number": "04077",
+        "name": "NJP DLI SPECIAL\t•\t06155 - CGL TEN SF SPL"
+    },
+    {
+        "number": "15055",
+        "name": "AF RMR EXPRESS"
+    },
+    {
+        "number": "12855",
+        "name": "INTERCITY EXP"
+    },
+    {
+        "number": "12355",
+        "name": "ARCHNA EXP"
+    },
+    {
+        "number": "02550",
+        "name": "JOYRIDE SPECIAL"
+    },
+    {
+        "number": "06557",
+        "name": "SMVB SRC SPL"
+    },
+    {
+        "number": "06552",
+        "name": "CAN YPR SPECIAL"
+    },
+    {
+        "number": "06551",
+        "name": "SMVB BLGT SPL"
+    },
+    {
+        "number": "06550",
+        "name": "TVCN SMVB SPL"
+    },
+    {
+        "number": "02155",
+        "name": "BPL NZM SF SPL"
+    },
+    {
+        "number": "12955",
+        "name": "MMCT JAIPUR SF"
+    },
+    {
+        "number": "12550",
+        "name": "MCTM DURG SF EX"
+    },
+    {
+        "number": "22355",
+        "name": "PPTA CDG EXP"
+    },
+    {
+        "number": "12559",
+        "name": "SHIV GANGA EXP"
+    },
+    {
+        "number": "12552",
+        "name": "KYQ SMVB AC EXP"
+    },
+    {
+        "number": "12557",
+        "name": "SAPT KRANTI EXP"
+    },
+    {
+        "number": "12555",
+        "name": "GORAKHDHAM EXP"
+    },
+    {
+        "number": "12556",
+        "name": "GORAKHDHAM EXP"
+    },
+    {
+        "number": "15549",
+        "name": "JYG PNBE INT EX"
+    },
+    {
+        "number": "15550",
+        "name": "PNBE JYG INT EX"
+    },
+    {
+        "number": "15557",
+        "name": "AMRIT BHARAT EXP"
+    },
+    {
+        "number": "15554",
+        "name": "JYG BGP EXP"
+    },
+    {
+        "number": "15558",
+        "name": "AMRIT BHARAT EXP"
+    },
+    {
+        "number": "16855",
+        "name": "PDY MAQ EXPRESS"
+    },
+    {
+        "number": "15528",
+        "name": "PNBE JYG EXP"
+    },
+    {
+        "number": "15527",
+        "name": "JYG PNBE EXP"
+    },
+    {
+        "number": "15509",
+        "name": "RAJYA RANI EXP"
+    },
+    {
+        "number": "15501",
+        "name": "RXL JBN EXP"
+    },
+    {
+        "number": "15506",
+        "name": "JANHIT EXP"
+    },
+    {
+        "number": "15505",
+        "name": "JANHIT EXP"
+    },
+    {
+        "number": "15510",
+        "name": "RAJYA RANI EXP"
+    },
+    {
+        "number": "22214",
+        "name": "DURONTO EXP"
+    },
+    {
+        "number": "22228",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "22229",
+        "name": "MAO VANDE BHARAT"
+    },
+    {
+        "number": "22222",
+        "name": "CSMT RAJDHANI"
+    },
+    {
+        "number": "22224",
+        "name": "CSMT VANDEBHARAT"
+    },
+    {
+        "number": "22227",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "22208",
+        "name": "MAS SF AC EXP"
+    },
+    {
+        "number": "22209",
+        "name": "NZM DURONTO"
+    },
+    {
+        "number": "22200",
+        "name": "SUSHASAN SF EXP"
+    },
+    {
+        "number": "22203",
+        "name": "DURONTO EXPRESS"
+    },
+    {
+        "number": "12220",
+        "name": "LTT DURONTO"
+    },
+    {
+        "number": "12229",
+        "name": "LUCKNOW MAIL"
+    },
+    {
+        "number": "12223",
+        "name": "LTT ERS DURONTO"
+    },
+    {
+        "number": "12226",
+        "name": "KAIFIYAT EXP"
+    },
+    {
+        "number": "12225",
+        "name": "KAIFIYAT EXP"
+    },
+    {
+        "number": "12228",
+        "name": "MMCT DURONTO"
+    },
+    {
+        "number": "12227",
+        "name": "INDB DURONTO"
+    },
+    {
+        "number": "17222",
+        "name": "LTT COA EXPRESS"
+    },
+    {
+        "number": "22232",
+        "name": "KLBG VANDEBHARAT"
+    },
+    {
+        "number": "22234",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "22221",
+        "name": "NZM RAJDHANI"
+    },
+    {
+        "number": "22225",
+        "name": "SUR VANDE BHARAT"
+    },
+    {
+        "number": "22226",
+        "name": "CSMT VANDEBHARAT"
+    },
+    {
+        "number": "22207",
+        "name": "TVC AC SF EXP"
+    },
+    {
+        "number": "22201",
+        "name": "DURONTO EXPRESS"
+    },
+    {
+        "number": "22660",
+        "name": "YNRK TVCN EXP"
+    },
+    {
+        "number": "22661",
+        "name": "MS RMM SF EXP"
+    },
+    {
+        "number": "22662",
+        "name": "RMM MS SF EXP"
+    },
+    {
+        "number": "22663",
+        "name": "MS JU SF EXPRESS"
+    },
+    {
+        "number": "22664",
+        "name": "JU MS SF EXPRESS"
+    },
+    {
+        "number": "22665",
+        "name": "SBC CBE UDAY EXP"
+    },
+    {
+        "number": "22666",
+        "name": "CBE SBC UDAY EXP"
+    },
+    {
+        "number": "22166",
+        "name": "SGRL BPL SF EXP"
+    },
+    {
+        "number": "12366",
+        "name": "PNBE JANSHATBDI"
+    },
+    {
+        "number": "17665",
+        "name": "NED LTT EXPRESS"
+    },
+    {
+        "number": "06566",
+        "name": "MLDT SMVB SPL"
+    },
+    {
+        "number": "17666",
+        "name": "LTT NED EXP"
+    },
+    {
+        "number": "17668",
+        "name": "LTT NED EXPRESS"
+    },
+    {
+        "number": "05666",
+        "name": "SCL DLI SPECIAL"
+    },
+    {
+        "number": "05664",
+        "name": "AGTL ANVT SPL"
+    },
+    {
+        "number": "04066",
+        "name": "ANVT KUR SPL"
+    },
+    {
+        "number": "07166",
+        "name": "BBSN HYB SPL"
+    },
+    {
+        "number": "26652",
+        "name": "SBC VANDE BHARAT"
+    },
+    {
+        "number": "26651",
+        "name": "ERS VANDEBHARAT"
+    },
+    {
+        "number": "16866",
+        "name": "UZHAVAN EXPRESS"
+    },
+    {
+        "number": "14661",
+        "name": "SHALIMAR MALANI"
+    },
+    {
+        "number": "14662",
+        "name": "SHALIMAR MALANI"
+    },
+    {
+        "number": "12466",
+        "name": "RANTHAMBORE EXP"
+    },
+    {
+        "number": "20966",
+        "name": "SABARMATI INCITY"
+    },
+    {
+        "number": "12066",
+        "name": "JANSHATABDI EXP"
+    },
+    {
+        "number": "22866",
+        "name": "PURI LTT S F"
+    },
+    {
+        "number": "19665",
+        "name": "KURJ UDZ EXP"
+    },
+    {
+        "number": "19667",
+        "name": "MYS HUMSAFAR EXP"
+    },
+    {
+        "number": "19666",
+        "name": "UDZ KURJ EXP"
+    },
+    {
+        "number": "13329",
+        "name": "GANGADAMODAR EX"
+    },
+    {
+        "number": "08332",
+        "name": "PURI ROU SPL"
+    },
+    {
+        "number": "16332",
+        "name": "TVC LTT EXP"
+    },
+    {
+        "number": "13320",
+        "name": "RNC DUMK EXP"
+    },
+    {
+        "number": "01332",
+        "name": "AMRIT BHARAT SPL"
+    },
+    {
+        "number": "13332",
+        "name": "PNBE DHN EXPRES"
+    },
+    {
+        "number": "03327",
+        "name": "DHN LTT SPL"
+    },
+    {
+        "number": "03328",
+        "name": "LTT DHANBAD SPL"
+    },
+    {
+        "number": "19332",
+        "name": "INDB KCVL EXP"
+    },
+    {
+        "number": "20809",
+        "name": "SBP NED S F"
+    },
+    {
+        "number": "22809",
+        "name": "VSKP SF EXP"
+    },
+    {
+        "number": "19809",
+        "name": "KOTA JBP EXPRESS"
+    },
+    {
+        "number": "12903",
+        "name": "GOLDEN TEMPLE"
+    },
+    {
+        "number": "20903",
+        "name": "BSB MAHAMANA"
+    },
+    {
+        "number": "09038",
+        "name": "BHUJ BDTS SF SPL"
+    },
+    {
+        "number": "09037",
+        "name": "BDTS BHUJ SF SPL"
+    },
+    {
+        "number": "09032",
+        "name": "HPO UDN SPL"
+    },
+    {
+        "number": "09030",
+        "name": "BL VLNK SPL"
+    },
+    {
+        "number": "21903",
+        "name": "BDTS BKN SUP EXP"
+    },
+    {
+        "number": "22903",
+        "name": "BHUJ AC SF EXP"
+    },
+    {
+        "number": "15903",
+        "name": "DBRG CDG EXP"
+    },
+    {
+        "number": "19038",
+        "name": "AVADH EXPRESS"
+    },
+    {
+        "number": "19037",
+        "name": "AVADH EXP"
+    },
+    {
+        "number": "19034",
+        "name": "GUJARAT QUEEN"
+    },
+    {
+        "number": "11903",
+        "name": "VGLJ ETW EXP"
+    },
+    {
+        "number": "56903",
+        "name": "SUR DHARWAR PASS"
+    },
+    {
+        "number": "01903",
+        "name": "VGLJ NZM SPL"
+    },
+    {
+        "number": "09039",
+        "name": "UDN DHN SPL"
+    },
+    {
+        "number": "09036",
+        "name": "DNR UDN SF SPL"
+    },
+    {
+        "number": "09035",
+        "name": "BDTS UDN SPL"
+    },
+    {
+        "number": "09034",
+        "name": "MLDT UDN SPL"
+    },
+    {
+        "number": "09033",
+        "name": "UDN MLDT SPL"
+    },
+    {
+        "number": "09031",
+        "name": "UDN HPO SPL"
+    },
+    {
+        "number": "19039",
+        "name": "AVADH EXPRESS"
+    },
+    {
+        "number": "18309",
+        "name": "SBP JAT EXPRESS"
+    },
+    {
+        "number": "12309",
+        "name": "RJPB TEJAS RAJ"
+    },
+    {
+        "number": "15309",
+        "name": "DDN RMR EXPRESS"
+    },
+    {
+        "number": "03309",
+        "name": "DHN DLI SPL"
+    },
+    {
+        "number": "08309",
+        "name": "SBP CHZ SPL"
+    },
+    {
+        "number": "09309",
+        "name": "INDB NZM SF SPL"
+    },
+    {
+        "number": "22309",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "17309",
+        "name": "YPR VSG EXP"
+    },
+    {
+        "number": "14309",
+        "name": "UJJAINI EXPRESS"
+    },
+    {
+        "number": "19309",
+        "name": "SHANTI EXPRESS"
+    },
+    {
+        "number": "12916",
+        "name": "ASHRAM EXPRESS"
+    },
+    {
+        "number": "12451",
+        "name": "SHRAM SHKTI EXP"
+    },
+    {
+        "number": "12452",
+        "name": "SHRAM SHKTI EXP"
+    },
+    {
+        "number": "12915",
+        "name": "ASHRAM EXPRESS"
+    },
+    {
+        "number": "22637",
+        "name": "WEST COAST SFEXP"
+    },
+    {
+        "number": "22638",
+        "name": "WEST COAST SFEXP"
+    },
+    {
+        "number": "15080",
+        "name": "GKP PPTA EXP"
+    },
+    {
+        "number": "22632",
+        "name": "BKN MDU SF EXP"
+    },
+    {
+        "number": "08796",
+        "name": "PNBE DURG SPL"
+    },
+    {
+        "number": "08795",
+        "name": "DURG PNBE TOD"
+    },
+    {
+        "number": "15083",
+        "name": "CPR FBD EXPRESS"
+    },
+    {
+        "number": "01705",
+        "name": "JBP GAYA SPL"
+    },
+    {
+        "number": "01703",
+        "name": "REWA BPL HOLI SP"
+    },
+    {
+        "number": "22626",
+        "name": "MAS DOUBLE DECK"
+    },
+    {
+        "number": "01707",
+        "name": "JBP SGAC HOLI SP"
+    },
+    {
+        "number": "01706",
+        "name": "AY JBP HOLI SPL"
+    },
+    {
+        "number": "01701",
+        "name": "JBP HWH SPL"
+    },
+    {
+        "number": "20893",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "07008",
+        "name": "RXL CHZ SPL"
+    },
+    {
+        "number": "06157",
+        "name": "CGL TEN SF SPL"
+    },
+    {
+        "number": "07005",
+        "name": "CHZ RXL SPL"
+    },
+    {
+        "number": "06156",
+        "name": "TEN CGL SF SPL"
+    },
+    {
+        "number": "07006",
+        "name": "RXL CHZ SPL"
+    },
+    {
+        "number": "15090",
+        "name": "GTNR GODDA EXP"
+    },
+    {
+        "number": "15092",
+        "name": "TPU DOZ EXPRESS"
+    },
+    {
+        "number": "15091",
+        "name": "DOZ TPU EXP"
+    },
+    {
+        "number": "06159",
+        "name": "VM UDN SPECIAL"
+    },
+    {
+        "number": "15063",
+        "name": "RMR CDG EXP"
+    },
+    {
+        "number": "20891",
+        "name": "VANDE BHARAT EXP"
+    },
+    {
+        "number": "22630",
+        "name": "TEN LTT SF EXP"
+    },
+    {
+        "number": "06158",
+        "name": "TEN CGL SF SPL"
+    },
+    {
+        "number": "17261",
+        "name": "GNT TPTY EXP"
+    },
+    {
+        "number": "15082",
+        "name": "GTNR GKP EXP"
+    },
+    {
+        "number": "15081",
+        "name": "GKP GTNR EXP"
+    },
+    {
+        "number": "06155",
+        "name": "CGL TEN SF SPL"
+    },
+    {
+        "number": "15065",
+        "name": "GKP PNVL EXP"
+    },
+    {
+        "number": "15069",
+        "name": "GKP ASH EXPRESS"
+    },
+    {
+        "number": "15067",
+        "name": "GKP BDTS EXP"
+    },
+    {
+        "number": "06589",
+        "name": "BNC KLBG SPL"
+    },
+    {
+        "number": "06153",
+        "name": "MS MAQ SPECIAL"
+    },
+    {
+        "number": "06584",
+        "name": "BJP MYS EXP"
+    },
+    {
+        "number": "06580",
+        "name": "MAJN SMVB SPL"
+    },
+    {
+        "number": "06578",
+        "name": "BJP YPR SPL"
+    },
+    {
+        "number": "12804",
+        "name": "VSKP S JYANTI"
+    },
+    {
+        "number": "12805",
+        "name": "JANMABHOOMI EXP"
+    },
+    {
+        "number": "15043",
+        "name": "LJN KGM EXPRESS"
+    },
+    {
+        "number": "06128",
+        "name": "MAJN MS SPECIAL"
+    },
+    {
+        "number": "06127",
+        "name": "MAS MAJN SPECIAL"
+    },
+    {
+        "number": "20416",
+        "name": "MAHAKAL SUP EXP"
+    },
+    {
+        "number": "15060",
+        "name": "ANVT LKU EXP"
+    },
+    {
+        "number": "20415",
+        "name": "MAHAKAL EXPRESS"
+    },
+    {
+        "number": "20414",
+        "name": "MAHAKAL EXPRESS"
+    },
+    {
+        "number": "06152",
+        "name": "TN MAS SF SPL"
+    },
+    {
+        "number": "06586",
+        "name": "QLN SMVB SPL"
+    },
+    {
+        "number": "06585",
+        "name": "SMVB QLN SPL"
+    },
+    {
+        "number": "15078",
+        "name": "GTNR KYQ EXP"
+    },
+    {
+        "number": "06574",
+        "name": "QLN SMVB SPECIAL"
+    },
+    {
+        "number": "07098",
+        "name": "MAQ HYB SPECIAL"
+    },
+    {
+        "number": "07097",
+        "name": "HYB MAQ SPL"
+    },
+    {
+        "number": "22673",
+        "name": "BGKT MQ SF EXP"
+    },
+    {
+        "number": "22674",
+        "name": "MQ BGKT SF EXP"
+    },
+    {
+        "number": "06568",
+        "name": "QLN BNC SPECIAL"
+    },
+    {
+        "number": "06562",
+        "name": "QLN UBL SPECIAL"
+    },
+    {
+        "number": "18501",
+        "name": "VSKP QLN EXP"
+    },
+    {
+        "number": "04084",
+        "name": "KYQ HOLI SPL"
+    },
+    {
+        "number": "04078",
+        "name": "NDLS KYQ SPL"
+    },
+    {
+        "number": "07128",
+        "name": "QLN CHZ SPECIAL"
+    },
+    {
+        "number": "07126",
+        "name": "QLN CHZ SPECIAL"
+    },
+    {
+        "number": "06220",
+        "name": "QLN SMVB SPL"
+    },
+    {
+        "number": "06219",
+        "name": "SMVB QLN SPL"
+    },
+    {
+        "number": "08761",
+        "name": "DURG HOLI SPL"
+    },
+    {
+        "number": "08752",
+        "name": "DURG HOLI SPL"
+    },
+    {
+        "number": "12801",
+        "name": "PURUSHOTTAM SF"
+    },
+    {
+        "number": "15045",
+        "name": "GKP OKHA EXP"
+    },
+    {
+        "number": "20401",
+        "name": "BSB LKO SF EXP"
+    },
+    {
+        "number": "15052",
+        "name": "GKP KOAA EXP"
+    },
+    {
+        "number": "15050",
+        "name": "GKP KOAA EXP"
+    },
+    {
+        "number": "20402",
+        "name": "LKO BSB SF EXP"
+    },
+    {
+        "number": "15093",
+        "name": "AH TPU EXPRESS"
+    },
+    {
+        "number": "20890",
+        "name": "HWH HUMSAFAR SF"
+    },
+    {
+        "number": "17256",
+        "name": "NARASAPUR EXP"
+    },
+    {
+        "number": "09609",
+        "name": "UDZ DHN SPL"
+    },
+    {
+        "number": "09604",
+        "name": "INAUGURAL SPL"
+    }
+]
