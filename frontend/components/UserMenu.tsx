@@ -96,8 +96,10 @@ export default function UserMenu() {
   }
 
   return (
-    <Button asChild className="bg-white text-[#1253a4] hover:bg-slate-100 font-bold px-8 py-2 h-10 rounded-full text-sm uppercase tracking-wide shadow-sm cursor-pointer">
-      <Link href="/login">LOGIN</Link>
-    </Button>
+    <Link href="/login">
+      <Button className="bg-white text-[#1253a4] hover:bg-slate-100 font-bold px-8 py-2 h-10 rounded-full text-sm uppercase tracking-wide shadow-sm cursor-pointer">
+        LOGIN
+      </Button>
+    </Link>
   );
 }
