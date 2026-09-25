@@ -75,12 +75,11 @@ export default function UserMenu() {
           
           <DropdownMenuSeparator />
           
-          {/* Linked to My Bookings Page */}
-          <DropdownMenuItem asChild className="font-bold text-slate-700 dark:text-slate-300 cursor-pointer py-3 rounded-xl focus:bg-indigo-50 dark:focus:bg-indigo-900/30">
-            <Link href="/bookings" className="flex items-center w-full">
+          <Link href="/bookings" className="w-full block">
+            <DropdownMenuItem className="font-bold text-slate-700 dark:text-slate-300 cursor-pointer py-3 rounded-xl focus:bg-indigo-50 dark:focus:bg-indigo-900/30">
               <Ticket className="w-4 h-4 mr-2 text-indigo-500" /> My Bookings
-            </Link>
-          </DropdownMenuItem>
+            </DropdownMenuItem>
+          </Link>
 
           <DropdownMenuItem className="font-bold text-slate-700 dark:text-slate-300 cursor-pointer py-3 rounded-xl focus:bg-indigo-50 dark:focus:bg-indigo-900/30">
             <Settings className="w-4 h-4 mr-2 text-slate-500" /> Profile Settings
